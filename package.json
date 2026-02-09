@@ -11,6 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "@picocss/pico": "^2.1.1",
-    "rk-ssg": "file:../rk-ssg"
+    "rk-ssg": "^1.1.0"
   }
 }
