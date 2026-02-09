@@ -1,0 +1,13 @@
+<% layout("@/views/layout") %>
+
+<% if (!it.matter.ignore) { %>
+<header style="padding: 1rem 0;">
+  <a href="/projects"><- Back to projects</a>
+  <hgroup style="margin: 1rem 0;">
+    <h1><%= it.matter.title %></h1>
+    <span><%= it.matter.description %></span>
+  </hgroup>
+</header>
+<% } %>
+
+<%~ it.htmlContent %>

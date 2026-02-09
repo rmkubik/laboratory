@@ -1,0 +1,16 @@
+{
+  "name": "rk-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rk-ssg serve src --outdir=dist",
+    "build": "rk-ssg build src --outdir=dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@picocss/pico": "^2.1.1",
+    "rk-ssg": "file:../rk-ssg"
+  }
+}
