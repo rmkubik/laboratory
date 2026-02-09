@@ -4,7 +4,7 @@
   </head>
   <body>
     <header class="container">
-      <a href="/">Ryan Kubik</a>
+      <p>⚗️🧪🏗️💥 <a href="/">My Laboratory</a></p>
     </header>
     <main class="container">
       <%~ it.body %>
