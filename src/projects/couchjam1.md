@@ -2,7 +2,7 @@
 publishedAt: 2026-03-01
 projectDate: 2026-03-01
 title: Couchjam Mk. 1
-description:
+description: Build local multiplayer games with friends
 ---
 
 [Couchjam](https://words.ryankubik.com/notes/Couchjam) is a cool idea from a game dev called Sunil. They got together with some friends and each made a local multiplayer game. They brought them together and shared. It seems like great fun.
