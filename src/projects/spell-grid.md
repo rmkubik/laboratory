@@ -1,5 +1,6 @@
 ---
 publishedAt: 2026-02-08
+proejctData: 2026-01-31
 title: Spell grid
 description: An arcane programming game
 ---

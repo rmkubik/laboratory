@@ -1,5 +1,6 @@
 ---
 publishedAt: 2026-02-08
+projectDate: 2025-12-31
 title: rk-ssg
 description: A personal static site generator
 ---

@@ -1,5 +1,6 @@
 ---
 publishedAt: 2026-02-28
+projectDate: 2026-03-09
 title: Portland Festival of Games
 description: A community organized week of events in Portland
 ---
