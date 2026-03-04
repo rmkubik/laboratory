@@ -11,12 +11,20 @@ I participated in [Godot Wild Jam 85](https://itch.io/jam/godot-wild-jam-85) wit
 img {
   max-width: 800px;
 }
-p:has(img) {
-  text-align: center;
+.err-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
 }
 </style>
 
+<div class="err-container">
+
 ![Screenshot of the level in EAT ROLL REPEAT](/images/eat-roll-repeat.png)
+
+<iframe frameborder="0" src="https://itch.io/embed/3879825?dark=true" width="552" height="167"><a href="https://proudmomgames.itch.io/eat-roll-repeat">EAT ROLL REPEAT by Proud Mom Games, Ryan Kubik</a></iframe>
+</div>
 
 # 9/21/25
 
