@@ -5,7 +5,7 @@ title: Portland Festival of Games
 description: A community organized week of events in Portland
 ---
 
-- [Portland Festival of Games](https://github.com/rmkubik/rk-ssg)
+- [Portland Festival of Games](https://pdxmakes.games/pfog)
 
 PFOG is a week of community organized events around Portland, March 9-14. We've been chatting about doing something community organized for a while, and we decided sort of on a whim to do it this year instead of attending GDC.
 
